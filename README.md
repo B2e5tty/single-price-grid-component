@@ -50,7 +50,6 @@ I still didn't know if we have to design not only for width but for height too. 
 ## Author
 
 - Bethlehem Dereselegn
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
+- Frontend Mentor - [@B2e5tty](https://www.frontendmentor.io/profile/B2e5tty)
 
 
